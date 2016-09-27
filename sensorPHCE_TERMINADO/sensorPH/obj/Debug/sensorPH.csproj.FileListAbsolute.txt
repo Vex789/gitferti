@@ -1,0 +1,18 @@
+c:\users\yael\documents\visual studio 2013\Projects\sensorPH\sensorPH\bin\Debug\sensorPH.exe.config
+c:\users\yael\documents\visual studio 2013\Projects\sensorPH\sensorPH\bin\Debug\sensorPH.exe
+c:\users\yael\documents\visual studio 2013\Projects\sensorPH\sensorPH\bin\Debug\sensorPH.pdb
+c:\users\yael\documents\visual studio 2013\Projects\sensorPH\sensorPH\obj\Debug\sensorPH.csprojResolveAssemblyReference.cache
+c:\users\yael\documents\visual studio 2013\Projects\sensorPH\sensorPH\obj\Debug\sensorPH.Form1.resources
+c:\users\yael\documents\visual studio 2013\Projects\sensorPH\sensorPH\obj\Debug\sensorPH.Properties.Resources.resources
+c:\users\yael\documents\visual studio 2013\Projects\sensorPH\sensorPH\obj\Debug\sensorPH.csproj.GenerateResource.Cache
+c:\users\yael\documents\visual studio 2013\Projects\sensorPH\sensorPH\obj\Debug\sensorPH.exe
+c:\users\yael\documents\visual studio 2013\Projects\sensorPH\sensorPH\obj\Debug\sensorPH.pdb
+C:\Users\usuario\Desktop\sensorPH\sensorPH\bin\Debug\sensorPH.exe.config
+C:\Users\usuario\Desktop\sensorPH\sensorPH\obj\Debug\sensorPH.exe
+C:\Users\usuario\Desktop\sensorPH\sensorPH\obj\Debug\sensorPH.pdb
+C:\Users\usuario\Desktop\sensorPH\sensorPH\bin\Debug\sensorPH.exe
+C:\Users\usuario\Desktop\sensorPH\sensorPH\bin\Debug\sensorPH.pdb
+C:\Users\usuario\Desktop\sensorPH\sensorPH\obj\Debug\sensorPH.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\sensorPH\sensorPH\obj\Debug\sensorPH.Form1.resources
+C:\Users\usuario\Desktop\sensorPH\sensorPH\obj\Debug\sensorPH.Properties.Resources.resources
+C:\Users\usuario\Desktop\sensorPH\sensorPH\obj\Debug\sensorPH.csproj.GenerateResource.Cache
