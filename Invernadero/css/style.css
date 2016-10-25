@@ -45,10 +45,13 @@ body {
     background:lightslategray;
     font-family:Arial;
     font-size:0.8em;
+    height:auto;
+    
 }
 #container, footer {
     background:#fff;
     width:920px;
+    height:auto;
     margin:0 auto;
     padding:20px;
 }
