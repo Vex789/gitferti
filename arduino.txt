@@ -1,0 +1,26 @@
+char caracter;
+String comando;
+int pinLed =  13;   // Declaramos la variable pin del Led.
+
+void setup(){
+ // Inicializa el pin del LED como salida:
+ pinMode(pinLed, OUTPUT);
+ Serial.begin(9600);
+}
+
+void loop(){
+ while (Serial.available()>0){
+   caracter= Serial.read();
+   comando.concat(caracter);
+   delay(10);
+ }
+ if (comando.equals("Led13_ON") == true){
+   digitalWrite(pinLed, HIGH);
+       Serial.println("El comando es Led13_ON");
+ }      
+ if (comando.equals("Led13_OFF")== true){
+   digitalWrite(pinLed, LOW);
+       Serial.println("El comando es Led13_OFF");
+ }  
+ comando="";
+}
