@@ -1,0 +1,1 @@
+hora#humedad#humRel#temperatura#luz#

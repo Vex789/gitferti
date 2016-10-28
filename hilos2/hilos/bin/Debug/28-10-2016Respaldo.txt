@@ -1,0 +1,3 @@
+humedad: Maximo:0 Minimo:0 Actual: 0 , humedad Relativa: Maximo:0 Minimo:0 Actual: 0 , Temperatura: Maximo:0 Minimo:0 Actual: 0 , luminosidad: Maximo:-5 Minimo:1024 Actual: 0 , Micro: 3,Macro: 1,Mezcla: 18
+humedad: Maximo:16 Minimo:3.666667 Actual: 13 , humedad Relativa: Maximo:18 Minimo:5.333333 Actual: 12.33333 , Temperatura: Maximo:13.33333 Minimo:4.333333 Actual: 9.666667 , luminosidad: Maximo:32.4 Minimo:32.4 Actual: 32.4 , Micro: 2,Macro: 19,Mezcla: 4
+humedad: Maximo:17.33333 Minimo:1.333333 Actual: 8.333333 , humedad Relativa: Maximo:18 Minimo:2 Actual: 10 , Temperatura: Maximo:16 Minimo:2.333333 Actual: 12.33333 , luminosidad: Maximo:32.4 Minimo:30.24 Actual: 30.24 , Micro: 9,Macro: 8,Mezcla: 13

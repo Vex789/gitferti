@@ -1,0 +1,23 @@
+humedad: 6.666667 , humedad Relativa: 12.66667 , Temperatura: 11.66667 , luminosidad: 0
+humedad: 15.33333 , humedad Relativa: 5 , Temperatura: 10 , luminosidad: 47.52
+humedad: 8.333333 , humedad Relativa: 9 , Temperatura: 10.33333 , luminosidad: 33.12
+humedad: 8.333333 , humedad Relativa: 12 , Temperatura: 6.666667 , luminosidad: 44.64
+humedad: 12 , humedad Relativa: 12 , Temperatura: 9.666667 , luminosidad: 18
+humedad: 0 , humedad Relativa: 0 , Temperatura: 0 , luminosidad: 0,Micro: 0,Macro: 0,MezclaSystem.Windows.Forms.TextBox, Text: 
+humedad: 12.66667 , humedad Relativa: 11 , Temperatura: 10.33333 , luminosidad: 36,Micro: 17,Macro: 5,MezclaSystem.Windows.Forms.TextBox, Text: 3
+humedad: 7 , humedad Relativa: 17 , Temperatura: 13.66667 , luminosidad: 33.12,Micro: 6,Macro: 3,MezclaSystem.Windows.Forms.TextBox, Text: 0
+humedad: 10 , humedad Relativa: 8 , Temperatura: 11.33333 , luminosidad: 43.92,Micro: 6,Macro: 5,MezclaSystem.Windows.Forms.TextBox, Text: 19
+humedad: 12.33333 , humedad Relativa: 9.666667 , Temperatura: 9.666667 , luminosidad: 44.64,Micro: 3,Macro: 3,MezclaSystem.Windows.Forms.TextBox, Text: 5
+humedad: 11 , humedad Relativa: 8.666667 , Temperatura: 7.333333 , luminosidad: 30.24,Micro: 18,Macro: 3,MezclaSystem.Windows.Forms.TextBox, Text: 5
+humedad: 10 , humedad Relativa: 11.33333 , Temperatura: 13 , luminosidad: 28.08,Micro: 1,Macro: 7,MezclaSystem.Windows.Forms.TextBox, Text: 7
+humedad: 8.333333 , humedad Relativa: 10 , Temperatura: 12 , luminosidad: 0,Micro: 15,Macro: 11,Mezcla4
+humedad: 7.333333 , humedad Relativa: 4.666667 , Temperatura: 11.33333 , luminosidad: 38.16,Micro: 19,Macro: 14,Mezcla14
+humedad: 9.333333 , humedad Relativa: 11.66667 , Temperatura: 11.33333 , luminosidad: 48.24,Micro: 2,Macro: 3,Mezcla16
+humedad: 16.33333 , humedad Relativa: 10.33333 , Temperatura: 4.666667 , luminosidad: 33.84,Micro: 11,Macro: 13,Mezcla19
+humedad: 9.333333 , humedad Relativa: 15 , Temperatura: 6.666667 , luminosidad: 25.2,Micro: 1,Macro: 18,Mezcla15
+humedad: 0 , humedad Relativa: 0 , Temperatura: 0 , luminosidad: 0,Micro: 12,Macro: 2,Mezcla: 13
+humedad: 11.33333 , humedad Relativa: 7.666667 , Temperatura: 7.333333 , luminosidad: 17.28,Micro: 0,Macro: 17,Mezcla: 9
+humedad: 14.33333 , humedad Relativa: 9.666667 , Temperatura: 12 , luminosidad: 23.76,Micro: 1,Macro: 14,Mezcla: 5
+humedad: 10.66667 , humedad Relativa: 12.66667 , Temperatura: 8.333333 , luminosidad: 43.92,Micro: 14,Macro: 5,Mezcla: 12
+humedad: 11 , humedad Relativa: 12 , Temperatura: 8.333333 , luminosidad: 50.4,Micro: 5,Macro: 4,Mezcla: 4
+humedad: 9.333333 , humedad Relativa: 8.666667 , Temperatura: 9.333333 , luminosidad: 18,Micro: 4,Macro: 11,Mezcla: 4

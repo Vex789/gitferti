@@ -1,0 +1,2 @@
+humedad, humadaRelativa, temperatura, luz, micro, macro, mezcla
+#max#min#valor#
