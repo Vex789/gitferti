@@ -1,4 +1,5 @@
 /* Resets */
+<<<<<<< HEAD
 ul {
     padding:0;
     margin:0 0 20px 0;
@@ -9,10 +10,24 @@ h1, h2 {
     margin:0 0 20px 0;
     font-weight:normal;
 }
+=======
+/*ul {
+    padding:0;
+    margin:0 0 20px 0;
+   // list-style:none;
+}
+h1, h2 {
+   // padding:0;
+   // margin:0 0 20px 0;
+    font-weight:normal;
+    text-align: center;
+  }
+>>>>>>> origin/master
 p {
     padding:0;
     margin:0 0 20px 0;
 }
+<<<<<<< HEAD
 a:link, a:visited {
     text-decoration:underline;
     color:#000;
@@ -28,6 +43,28 @@ ul li input[type="text"], ul li input[type="password"] {
 }
 /* Headers */
 h1 {
+=======
+input{
+    border-radius: 5px;
+
+}
+
+a:link, a:visited {
+  //  text-decoration:underline;
+    color:#000;
+}
+a:hover {
+    text-decoration:underline;
+}
+ul li {
+    //padding:5px 0;
+}
+ul li input[type="text"], ul li input[type="password"] {
+    width:200px;
+}*/
+/* Headers */
+/*h1 {
+>>>>>>> origin/master
     font-size:1.8em;
 }
 h2 {
@@ -39,6 +76,7 @@ h2 {
     padding:0;
     width:200px;
     color:#fff;
+<<<<<<< HEAD
 }
 /* Containers */
 body {
@@ -46,6 +84,16 @@ body {
     font-family:Arial;
     font-size:0.8em;
     height:auto;
+=======
+}*/
+/* Containers */
+/*body {
+    //background:lightslategray;
+    font-family:Arial;
+    font-size:0.8em;
+    height:auto;
+    width: 100%;
+>>>>>>> origin/master
     
 }
 #container, footer {
@@ -75,9 +123,15 @@ header {
 }
 .widget .inner {
     margin:0 10px;
+<<<<<<< HEAD
 }
 /* Navigation */
 nav {
+=======
+}*/
+/* Navigation */
+/*nav {
+>>>>>>> origin/master
     float:left;
 }
 nav ul {
@@ -87,7 +141,11 @@ nav ul li {
     display:inline;
     margin-right:10px;
 }
+<<<<<<< HEAD
 nav ul li a {
+=======
+nav ul li a {widget
+>>>>>>> origin/master
     text-decoration:none;
 }
 nav ul li.current {
@@ -95,13 +153,20 @@ nav ul li.current {
 }
 nav ul li a.last {
     border-right:0;
+<<<<<<< HEAD
 }
 /* Aside */
 aside {
+=======
+}*/
+/* Aside */
+/*aside {
+>>>>>>> origin/master
     width:260px;
     float:right;
     border-left:1px dashed #aaa;
     padding-left:15px;
+<<<<<<< HEAD
 }
 /* Footer */
 footer {
@@ -111,4 +176,47 @@ footer {
 /* Misc */
 .clear {
     clear:both;
+=======
+}*/
+/* Footer */
+/*footer {
+    border-top:1px dashed #ddd;
+    color:#999;
+}*/
+/* Misc */
+/*.clear {
+    clear:both;
+}*/
+
+h1{
+    font-size: 14px;
+    text-align: center;
+
+}
+.widget{
+    margin-left: 20px;
+    margin-right: 20px;
+   // padding: 0 5px;
+    border-radius: 5px;
+   // background-color: #1E90FF;
+    
+}
+.inner{
+    height:auto;
+    width: 100%;
+    //padding:  30px;
+}
+input{
+    border-radius: 5px;
+}
+.disabled {
+    pointer-events:none; //This makes it not clickable
+    opacity:0.6;         //This grays it out to look disabled
+}
+p{
+    font-size: 1em;
+    text-align: center; 
+   //font-weight: bolder;
+    color: black;
+>>>>>>> origin/master
 }
